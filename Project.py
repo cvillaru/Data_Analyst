@@ -10,7 +10,7 @@ Saves updated dataframe
 Removes the 'Exit Date' column
 '''
 csvfile = csvfile[csvfile['Exit Date'].isna()]
-csvfile.to_csv('Employee_Data-removed_former_employees', index=False, mode='w')
+csvfile.to_csv('Employee_Data-removed_former_employees.csv', index=False, mode='w')
 csvfile = csvfile.drop(columns=['Exit Date'])
 
 
@@ -20,7 +20,7 @@ Remove employees with 'Hire Date' below 2018
 Save the updated DataFrame to a new CSV file
 '''
 csvfile = csvfile[pd.to_datetime(csvfile['Hire Date'], format='%d/%m/%Y', errors='coerce').dt.year >= 2018]
-csvfile.to_csv('Employee_Data-removed_employees_hired_from_2018_above', index=False, mode='w')
+csvfile.to_csv('Employee_Data-removed_employees_hired_from_2018_above.csv', index=False, mode='w')
 
 
 
@@ -35,7 +35,7 @@ csvfile['Annual Salary'] = (csvfile['Annual Salary'].replace('[\$,]', '', regex=
                             .astype(float) * exchange_rate_usd_to_gbp).round(2)
 csvfile.rename(columns={'Annual Salary': 'Annual Salary GBP'}, inplace=True)
 
-csvfile.to_csv('Employee_Data-converted_USD_to_GBP', index=False, mode='w')
+csvfile.to_csv('Employee_Data-converted_USD_to_GBP.csv', index=False, mode='w')
 
 
 
@@ -46,7 +46,7 @@ Save the updated DataFrame to a new CSV file
 '''
 formattedDate = pd.to_datetime(csvfile['Hire Date'], format='%m/%d/%Y', errors='coerce')
 csvfile['Hire Date'] = formattedDate.dt.strftime("%d/%m/%Y")
-csvfile.to_csv('Employee_Data-reformatted_date', index=False, mode='w')
+csvfile.to_csv('Employee_Data-reformatted_date.csv', index=False, mode='w')
 
 
 
