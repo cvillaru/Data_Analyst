@@ -1,0 +1,93 @@
+EEID,Full Name,Job Title,Department,Business Unit,Gender,Ethnicity,Age,Hire Date,Annual Salary GBP,Bonus %,Country,City
+E01550,Ruby Barnes,Manager,IT,Corporate,Female,Caucasian,27,01/07/2020,94599.34,10%,United States,Phoenix
+E04239,Everleigh Ng,Sr. Manger,Finance,Research & Development,Female,Asian,51,10/06/2021,115926.18,10%,China,Shanghai
+E04732,Eva Rivera,Director,Sales,Manufacturing,Female,Latino,36,02/04/2021,119845.37,21%,United States,Miami
+E00671,Leonardo Dixon,Analyst,Sales,Speciality Products,Male,Caucasian,37,05/09/2019,39498.42,0%,United States,Seattle
+E03247,Caroline Jenkins,Analyst,Finance,Research & Development,Female,Caucasian,27,06/05/2018,38718.69,0%,United States,Chicago
+E02862,Peyton Huang,Sr. Manger,IT,Manufacturing,Female,Asian,25,02/07/2021,99250.07,11%,China,Beijing
+E00716,John Chow,Sr. Manger,Marketing,Research & Development,Male,Asian,45,11/03/2021,106698.98,15%,China,Chengdu
+E03349,Anna Mehta,Cloud Infrastructure Architect,IT,Speciality Products,Female,Asian,32,05/01/2020,62286.76,0%,United States,Seattle
+E00431,Eliza Hernandez,Network Architect,IT,Corporate,Female,Latino,48,04/07/2019,60504.52,0%,Brazil,Rio de Janerio
+E01258,Gabriel Brooks,Network Engineer,IT,Manufacturing,Male,Caucasian,29,10/12/2018,66830.84,0%,United States,Miami
+E04931,Zoe Romero,Network Architect,IT,Manufacturing,Female,Latino,32,05/10/2021,69576.88,0%,Brazil,Sao Paulo
+E04903,Skylar Liu,Director,IT,Research & Development,Female,Asian,29,09/08/2020,127350.37,15%,China,Chengdu
+E02850,Evelyn Dinh,Director,Sales,Research & Development,Female,Asian,41,10/08/2018,135226.67,21%,United States,Columbus
+E04131,Cora Rivera,Sr. Analyst,Marketing,Corporate,Female,Latino,42,02/01/2021,74599.7,0%,United States,Seattle
+E04267,Greyson Sanders,Cloud Infrastructure Architect,IT,Speciality Products,Male,Black,28,06/03/2019,71340.16,0%,United States,Chicago
+E02706,Nevaeh Kang,Automation Engineer,Engineering,Research & Development,Female,Asian,46,10/01/2021,68365.02,0%,China,Chengdu
+E00170,Hannah Nelson,Sr. Analyst,Marketing,Speciality Products,Female,Caucasian,35,07/09/2019,56083.68,0%,United States,Austin
+E04458,Alexander Bryant,Field Engineer,Engineering,Speciality Products,Male,Caucasian,30,02/10/2021,70118.82,0%,United States,Seattle
+E00816,Skylar Watson,Network Architect,IT,Speciality Products,Female,Caucasian,28,08/10/2021,50935.25,0%,United States,Phoenix
+E03907,Camila Watson,Vice President,Finance,Speciality Products,Female,Caucasian,32,02/01/2018,150299.87,33%,United States,Austin
+E03446,Julian Ross,Manager,Marketing,Research & Development,Male,Caucasian,51,02/07/2020,79078.21,8%,United States,Miami
+E01037,Jeremiah Chu,IT Systems Architect,IT,Research & Development,Male,Asian,31,12/09/2020,76287.93,0%,China,Shanghai
+E01584,Carter Mejia,Sr. Manger,Human Resources,Research & Development,Male,Latino,29,09/05/2019,99404.12,15%,Brazil,Sao Paulo
+E00626,Luna Simmons,Sr. Analyst,Finance,Corporate,Female,Caucasian,28,04/09/2020,75085.55,0%,United States,Chicago
+E01291,Thomas Aguilar,Sr. Account Representative,Sales,Speciality Products,Male,Latino,45,10/02/2021,63106.78,0%,United States,Phoenix
+E00917,Skylar Bell,Vice President,Engineering,Manufacturing,Female,Caucasian,30,06/03/2018,201790.49,36%,United States,Columbus
+E00488,Emery Hunter,Sr. Analyst,Sales,Corporate,Female,Caucasian,28,03/07/2021,65363.81,0%,United States,Phoenix
+E04359,Greyson Lam,Vice President,Accounting,Manufacturing,Male,Asian,25,08/02/2021,156611.97,31%,United States,Miami
+E00813,Autumn Joseph,Enterprise Architect,IT,Corporate,Female,Black,39,09/05/2018,57920.43,0%,United States,Miami
+E04112,Axel Chu,Systems Analyst,IT,Research & Development,Male,Asian,43,04/05/2018,47311.52,0%,China,Beijing
+E02072,Charles Robinson,HRIS Analyst,Human Resources,Speciality Products,Male,Caucasian,26,12/03/2021,55591.51,0%,United States,Seattle
+E01403,Xavier Park,Vice President,IT,Research & Development,Male,Asian,40,08/11/2020,185230.51,31%,China,Chengdu
+E03438,Asher Morales,Automation Engineer,Engineering,Research & Development,Male,Latino,52,10/07/2020,69734.88,0%,Brazil,Sao Paulo
+E00078,Eva Garcia,HRIS Analyst,Human Resources,Corporate,Female,Latino,31,11/04/2021,57065.65,0%,Brazil,Manaus
+E04126,Dominic Baker,Sr. Analyst,Accounting,Manufacturing,Male,Black,51,09/10/2020,72563.87,0%,United States,Chicago
+E04072,Emery Mitchell,Vice President,Finance,Manufacturing,Female,Caucasian,48,02/06/2018,182937.93,36%,United States,Seattle
+E00365,Jonathan Patel,Manager,Marketing,Corporate,Male,Asian,28,02/02/2020,91179.43,6%,China,Shanghai
+E04290,Hannah Gomez,Technical Architect,IT,Manufacturing,Female,Latino,25,11/05/2021,66307.86,0%,United States,Miami
+E03893,Alice Xiong,Vice President,Engineering,Manufacturing,Female,Asian,55,02/09/2018,174957.35,34%,China,Chengdu
+E04546,Jade Hunter,Cloud Infrastructure Architect,IT,Corporate,Female,Caucasian,42,05/02/2020,76342.44,0%,United States,Columbus
+E00268,Ian Flores,Director,Engineering,Corporate,Male,Latino,48,10/12/2019,144659.27,24%,Brazil,Rio de Janerio
+E03404,Everleigh Nunez,Field Engineer,Engineering,Speciality Products,Female,Latino,42,05/02/2021,51750.53,0%,Brazil,Manaus
+E00325,Jameson Chen,Vice President,Marketing,Research & Development,Male,Asian,39,05/12/2019,200705.03,39%,China,Shanghai
+E03971,Lillian Chen,Sr. Manger,Marketing,Research & Development,Female,Asian,25,09/04/2020,124075.03,10%,United States,Columbus
+E03616,Josiah Lewis,Manager,IT,Research & Development,Male,Caucasian,46,11/08/2021,100771.61,10%,United States,Austin
+E00153,Claire Jones,Field Engineer,Engineering,Corporate,Female,Caucasian,39,12/03/2019,49488.76,0%,United States,Seattle
+E02960,Nova Hill,Sr. Analyst,Accounting,Manufacturing,Female,Caucasian,56,10/03/2018,71131.6,0%,United States,Chicago
+E02613,John Jung,Sr. Analyst,Sales,Speciality Products,Male,Asian,63,12/03/2018,57828.0,0%,China,Shanghai
+E01760,Madeline Acosta,Sr. Account Representative,Sales,Speciality Products,Female,Latino,26,09/02/2021,69067.33,0%,Brazil,Sao Paulo
+E01499,Liam Jordan,Computer Systems Manager,IT,Manufacturing,Male,Caucasian,28,08/08/2020,57871.45,9%,United States,Phoenix
+E03697,Isaac Woods,Manager,Sales,Corporate,Male,Caucasian,28,08/01/2021,85972.54,10%,United States,Miami
+E01787,Lillian Romero,Director,Engineering,Corporate,Female,Latino,27,07/12/2018,134429.56,17%,United States,Austin
+E04128,Jacob Doan,Analyst II,Sales,Speciality Products,Male,Asian,55,02/08/2021,53032.7,0%,United States,Miami
+E04472,Alexander Foster,Analyst II,Marketing,Manufacturing,Male,Black,35,03/07/2020,40695.27,0%,United States,Columbus
+E04131,Ruby Choi,Analyst,Accounting,Manufacturing,Female,Asian,40,06/12/2018,45207.75,0%,United States,Columbus
+E02063,Ian Gutierrez,Sr. Business Partner,Human Resources,Research & Development,Male,Latino,32,09/04/2021,56074.2,0%,Brazil,Rio de Janerio
+E04170,Grayson Chin,Vice President,IT,Research & Development,Male,Asian,26,09/05/2020,202683.19,39%,United States,Austin
+E03578,Maverick Li,Analyst II,Sales,Research & Development,Male,Asian,34,10/03/2018,46604.47,0%,United States,Austin
+E03694,Elena Patterson,Vice President,Finance,Speciality Products,Female,Black,38,09/11/2018,176805.95,36%,United States,Chicago
+E04005,Lincoln Wong,Sr. Analyst,Finance,Corporate,Male,Asian,49,07/06/2019,63753.0,0%,United States,Columbus
+E03870,Madeline Allen,Cloud Infrastructure Architect,IT,Manufacturing,Female,Caucasian,30,03/02/2020,74775.08,0%,United States,Seattle
+E01883,Isla Guzman,Sr. Manger,Accounting,Speciality Products,Female,Latino,28,06/07/2019,120108.44,15%,Brazil,Rio de Janerio
+E00446,Hudson Hill,Sr. Analyst,Sales,Research & Development,Male,Caucasian,30,04/11/2019,75912.68,0%,United States,Austin
+E04174,Maverick Henry,Computer Systems Manager,IT,Research & Development,Male,Caucasian,26,10/07/2019,54596.9,5%,United States,Chicago
+E01387,Cora Zheng,Director,IT,Manufacturing,Female,Asian,27,03/01/2018,132009.0,20%,China,Chengdu
+E03220,Alexander Gonzales,Manager,Accounting,Research & Development,Male,Latino,34,04/06/2018,101379.91,8%,United States,Phoenix
+E03981,Eliana Li,Test Engineer,Engineering,Research & Development,Female,Asian,63,07/05/2018,53709.73,0%,United States,Miami
+E03683,Raelynn Hong,Director,Marketing,Speciality Products,Female,Asian,28,11/12/2019,144033.59,28%,China,Beijing
+E04683,Ezekiel Delgado,Director,Engineering,Speciality Products,Male,Latino,40,07/02/2020,147877.73,18%,Brazil,Manaus
+E00676,Isaac Yoon,Manager,Human Resources,Corporate,Male,Asian,41,06/02/2019,100290.5,10%,United States,Chicago
+E00608,Anna Han,Development Engineer,Engineering,Manufacturing,Female,Asian,29,09/11/2019,59259.48,0%,United States,Chicago
+E04369,Santiago f Gray,Quality Engineer,Engineering,Corporate,Male,Caucasian,27,11/09/2018,63788.55,0%,United States,Chicago
+E03332,Ruby Sun,Cloud Infrastructure Architect,IT,Manufacturing,Female,Asian,50,06/09/2021,65900.22,0%,China,Shanghai
+E03055,Austin Rojas,Vice President,Finance,Corporate,Male,Latino,29,05/12/2018,157608.16,30%,United States,Austin
+E00568,Ian Vargas,Analyst,Sales,Manufacturing,Male,Latino,26,02/03/2021,35338.28,0%,Brazil,Rio de Janerio
+E03149,Layla Collins,IT Systems Architect,IT,Speciality Products,Female,Caucasian,26,11/03/2021,58594.3,0%,United States,Austin
+E04095,Ryan Holmes,Sr. Manger,Marketing,Speciality Products,Male,Caucasian,45,11/01/2018,100663.38,15%,United States,Columbus
+E03611,Alice Mehta,Analyst II,Sales,Research & Development,Female,Asian,45,02/04/2019,41570.59,0%,China,Beijing
+E01684,Jaxson Liang,Field Engineer,Engineering,Manufacturing,Male,Asian,64,03/03/2019,53020.06,0%,United States,Phoenix
+E02968,Caroline Santos,Analyst II,Finance,Research & Development,Female,Latino,25,12/07/2020,44686.35,0%,Brazil,Sao Paulo
+E01125,Joshua Yang,Network Engineer,IT,Manufacturing,Male,Asian,34,10/11/2018,48935.76,0%,China,Shanghai
+E02563,Clara Sanchez,Controls Engineer,Engineering,Corporate,Female,Latino,47,02/10/2018,88009.16,0%,Brazil,Rio de Janerio
+E00480,Hadley Yee,Business Partner,Human Resources,Speciality Products,Female,Asian,31,12/03/2018,37851.27,0%,United States,Seattle
+E01415,Henry Green,Sr. Account Representative,Sales,Speciality Products,Male,Caucasian,32,03/02/2020,76312.42,0%,United States,Phoenix
+E04163,David Herrera,Engineering Manager,Engineering,Speciality Products,Male,Latino,32,09/10/2021,80815.42,13%,Brazil,Rio de Janerio
+E02696,Ryan Lu,Development Engineer,Engineering,Speciality Products,Male,Asian,25,08/07/2021,53147.25,0%,United States,Columbus
+E03278,Nicholas Wong,Director,Sales,Research & Development,Male,Asian,27,07/11/2019,137939.53,29%,United States,Columbus
+E00956,Eleanor Chau,Development Engineer,Engineering,Research & Development,Female,Asian,37,08/03/2020,63720.61,0%,United States,Phoenix
+E03858,John Cho,Director,Human Resources,Speciality Products,Male,Asian,47,03/11/2019,154354.15,21%,China,Chengdu
+E03778,Luke Vu,Sr. Manger,Marketing,Speciality Products,Male,Asian,52,04/06/2018,122358.36,10%,China,Shanghai
+E04762,Audrey Richardson,Director,IT,Manufacturing,Female,Caucasian,46,06/10/2018,131344.61,17%,United States,Chicago
+E04398,Oliver Yang,Director,Marketing,Speciality Products,Male,Asian,31,10/06/2019,139600.9,15%,United States,Miami
